@@ -70,7 +70,7 @@
 <div align="center">
 
 <!-- Ces cartes sont chargées par un service tiers ; elles peuvent être indisponibles ponctuellement. -->
-<img alt="GitHub statistics" height="168" src="https://github-readme-stats.vercel.app/api?username=FerielBenatsi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0C1020&amp;title_color=B58AFF&amp;icon_color=70D5F8&amp;text_color=D6D2E9&amp;ring_color=B58AFF" />
+
 <img alt="Programming languages used in public GitHub repositories" height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerielBenatsi&amp;layout=compact&amp;hide_border=true&amp;bg_color=0C1020&amp;title_color=B58AFF&amp;text_color=D6D2E9&amp;langs_count=6" />
 
 </div>
