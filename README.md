@@ -75,14 +75,4 @@
 
 </div>
 
-## <code>05 / ACTIVITY_PULSE</code>
 
-<div align="center">
-
-<img alt="GitHub contribution activity in the last few weeks" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FerielBenatsi&amp;bg_color=0C1020&amp;color=D4CCE4&amp;line=8E67ED&amp;point=70D5F8&amp;area=true&amp;area_color=5545A4&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY" />
-
-<sub>Les statistiques sont automatiquement générées à partir de l'activité publique GitHub. Les services tiers peuvent parfois ne pas répondre.</sub>
-
-<img src="assets/footer.svg" alt="Build, test, improve, repeat" width="100%" />
-
-</div>
