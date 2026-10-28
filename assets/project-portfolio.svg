@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="230" viewBox="0 0 584 230" role="img" aria-label="Projet PORTFOLIO">
+<defs><linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#131024"/><stop offset="1" stop-color="#0b1627"/></linearGradient><linearGradient id="side" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f2a4d9"/><stop offset="1" stop-color="#9a62fb"/></linearGradient></defs>
+<rect width="584" height="230" rx="18" fill="url(#back)"/>
+<rect x="1.5" y="1.5" width="581" height="227" rx="17" fill="none" stroke="#61457e" stroke-opacity=".8" stroke-width="2"/>
+<rect x="0" y="28" width="4" height="162" rx="2" fill="url(#side)"/>
+<path d="M518 30 h29 v29" fill="none" stroke="#f2a4d9" opacity=".55" stroke-width="2"/>
+<circle cx="517" cy="187" r="52" fill="#f2a4d9" opacity=".035"/>
+<text x="28" y="40" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="3" fill="#f2a4d9">FEATURED / 02</text>
+<text x="28" y="91" font-family="DejaVu Sans,Arial,sans-serif" font-size="33" font-weight="bold" fill="#f4efff">PORTFOLIO</text>
+<text x="29" y="123" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#bfc7df">Personal portfolio &amp; visual identity</text>
+<rect x="29" y="147" rx="13" width="490" height="29" fill="#20233a"/>
+<text x="44" y="166" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#d7cfef">Frontend  •  CSS  •  UI/UX</text>
+<text x="29" y="209" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="2" fill="#f2a4d9">VIEW REPOSITORY  ›</text>
+</svg>
