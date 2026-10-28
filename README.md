@@ -38,7 +38,7 @@
 
 **WEB & BACKEND**
 
-![React](https://img.shields.io/badge/React-14192D?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-14192D?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-14192D?style=flat-square&logo=nodedotjs&logoColor=8ECF86) ![Express](https://img.shields.io/badge/Express-14192D?style=flat-square&logo=express&logoColor=FFFFFF) ![REST API](https://img.shields.io/badge/REST_API-14192D?style=flat-square&logo=postman&logoColor=FF6C37)
+![React](https://img.shields.io/badge/React-14192D?style=flat-square&logo=react&logoColor=61DAFB)  ![Node.js](https://img.shields.io/badge/Node.js-14192D?style=flat-square&logo=nodedotjs&logoColor=8ECF86) ![Express](https://img.shields.io/badge/Express-14192D?style=flat-square&logo=express&logoColor=FFFFFF) ![REST API](https://img.shields.io/badge/REST_API-14192D?style=flat-square&logo=postman&logoColor=FF6C37)
 
 **TOOLS & DATA**
 
